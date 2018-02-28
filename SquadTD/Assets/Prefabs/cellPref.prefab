@@ -67,6 +67,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96bb78e5f117b0349a2f42d9494250c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  backColor: {r: 0.5294118, g: 0.5177336, b: 0.5177336, a: 1}
+  pathColor: {r: 0.85294116, g: 0.8093425, b: 0.4578287, a: 1}
 --- !u!222 &222617424647457008
 CanvasRenderer:
   m_ObjectHideFlags: 1
